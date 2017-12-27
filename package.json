@@ -1,7 +1,7 @@
 {
-  "name": "teksty",
+  "name": "pnk",
   "version": "1.0.0",
-  "description": "teksty",
+  "description": "papier nozyce kamien",
   "main": "index.js",
   "scripts": {
     "test": "npm run test:html",
